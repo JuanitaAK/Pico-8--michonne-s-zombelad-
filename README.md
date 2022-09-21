@@ -1,9 +1,10 @@
-# Pico-8--michonne-s-zombelad-
+# Pico-8--michonne-s-zombelad 🕹-
 Pico 8 video game : "michonne's zombelad"
 By :  
-Juanita AFANADOR KOWALSKI
-Delhia GBELDIJI
-Karim FRABOULET
+
+🐒 Juanita AFANADOR KOWALSKI <br/>
+🐙 Delhia GBELDIJI<br/>
+🦓 Karim FRABOULET
 
 In a post-apocalyptic world, the player must escape from a mob of zombies. 
 
